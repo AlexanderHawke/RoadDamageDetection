@@ -51,7 +51,7 @@ def process_annotations(data_folder):
                     print(f"Converted {xml_file} to {txt_file}")
 
 # Convert all XML files in the annotations folder of each country
-process_annotations(r"C:\Users\alexa\Desktop\Honours Project\RDD2022") # Replace this with your own file path to the folder with all .
+process_annotations(r"e:\Honours Project\RDD2022") # Replace this with your own file path to the folder RDD2022.
 
-# for root, _, files in os.walk(r"C:\Users\alexa\Desktop\Honours Project\RDD2022"):
+# for root, _, files in os.walk(r"e:\Honours Project\RDD2022"):
 #     print(f"Root: {root}, Subdirs: {_}, Files: {files}")

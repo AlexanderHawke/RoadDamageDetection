@@ -1,0 +1,22 @@
+{
+    "comment": "ADD THIS PATH WITH YOUR COMPUTERS PATH TO THE RDD2022 FOLDER",
+    "base_path": "E:/Honours Project/RDD2022",
+
+    "train_dirs": [
+        "China_Drone/train",
+        "China_MotorBike/train",
+        "Czech/train",
+        "India/train",
+        "Japan/train",
+        "Norway/train",
+        "United_States/train"
+    ],
+    "test_dirs": [
+        "China_MotorBike/test",
+        "Czech/test",
+        "India/test",
+        "Japan/test",
+        "Norway/test",
+        "United_States/test"
+    ]
+}
